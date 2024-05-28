@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudheerkadiyala
 - 👀 I’m interested in coding and cooking
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently improving my skills on MySQL,cloud,c/c++
 
 
 <!---
